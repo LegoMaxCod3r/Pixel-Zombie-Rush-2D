@@ -1,2 +1,2 @@
-# Pixel-Zombie-Rush-2D
-Proyecto Creo tu propio juego 1
+# p5.play-plantilla
+Plantilla para p5.play
